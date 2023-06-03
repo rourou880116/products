@@ -12,3 +12,6 @@ while  True:
 print(products)
 
 print(products[0][0],products[0][1])
+
+for p in products:
+	print(p[0])
